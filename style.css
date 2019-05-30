@@ -1,0 +1,84 @@
+
+#header {
+	position: fixed;
+	top: 0;
+	right:0;
+	width: 100%;
+	background-color: #120cbd;
+	color: #fff;
+	padding: 5px;
+}
+
+.head-container {
+	width: 870px;
+	overflow: auto;
+	margin: 0 auto;
+}
+#logo {
+	float: left;
+}
+
+.poem-title {
+	float: right;
+	font-size: 42px;
+	color: #C70039;
+}
+#main {
+	width: 800px;
+	overflow: auto;
+	margin: 0 auto;
+	width: 800px;
+	padding: 75px 50px 10px;
+	height: 100%;
+	background-color: #B62312;
+}
+body {
+	margin: 0;
+	background: #fff url("images/metroid.jpg");
+}
+
+a {
+    color: purple;
+}
+a:hover {
+	color: blue;
+	font-size: 42px;
+	background-color: #B62312; 
+}
+.gallery-element img{
+	width: 150px;
+}
+.gallery-element img:hover {
+	width: 250px;
+}
+
+
+#footer {
+  background: #120cbd;
+  padding: 20px;
+  text-align: center;
+}
+#footer a {
+  font-size: 25px;
+}
+
+p {
+    font-family: Ani;
+    font-size: 20px;
+    color: green;
+}
+
+p2 {
+    font-family: Uroob;
+    font-size: 32px;
+    color: #120cbd;
+}
+
+h2 {
+    font-family: Uroob;
+    font-size: 32px;
+    color: #120cbd;
+}
+
+
+
